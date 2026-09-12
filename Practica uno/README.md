@@ -89,8 +89,8 @@ Finalmente, se realizaron varias pruebas para comprobar el funcionamiento del si
 Los resultados obtenidos durante las pruebas se pueden registrar en la siguiente tabla:
 | Prueba | Distancia | Tiempo | Velocidad |
 |--------|-----------|--------|-----------|
-| * 1* | Tramo 1 | 0.0890 s | 1.124 m/s |
-| * 2* | Tramo 1 | 0.6212 s | 0.161 m/s |
-| * 3* | Tramo 1 | 19.0884 s | 0.005 m/s |
-| * 4* | Tramo 1 | 12.2175 s | 0.008 m/s |
-| * 5* | Tramo 1 | 24.5842 s | 0.004 m/s |
+|  1  | Tramo 1 | 0.0890 s | 1.124 m/s |
+|  2  | Tramo 1 | 0.6212 s | 0.161 m/s |
+|  3  | Tramo 1 | 19.0884 s | 0.005 m/s |
+|  4  | Tramo 1 | 12.2175 s | 0.008 m/s |
+|  5  | Tramo 1 | 24.5842 s | 0.004 m/s |
